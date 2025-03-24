@@ -1,5 +1,9 @@
 # Sales Analytics Project
 
+## PDF Version (Notebook in PDF Format)
+[Download PDF Version](https://drive.google.com/file/d/1kI8FBquGz5H0e2DZGqXKzv2XSWEIcXOa/view?usp=sharing)
+
+
 ## Overview
 This project analyzes sales data to derive actionable business insights for a business analyst role. 
 
@@ -15,7 +19,7 @@ This project analyzes sales data to derive actionable business insights for a bu
 3. **Data Cleaning & Preparation:**  
    Cleaning and preparing the data.
 
-4. **Exploratory Data Analysis (EDA):**  
+4. **Exploratory Data Analysis:**  
    Includes graphs to visualize trends:
    - Monthly Revenue Trend
    - Customer Age Distribution
@@ -28,4 +32,5 @@ This project analyzes sales data to derive actionable business insights for a bu
 
 6. **Conclusion & Future Work:**  
    Recaps insights and suggests next steps for further analysis.
+"# SalesAnalysisProject" 
 "# SalesAnalysisProject" 
